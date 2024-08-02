@@ -12,6 +12,12 @@ Spencer
 
 Shayne
 * What is the most common sector of stocks purchased by each party/politician from 2019-2021?
+- Perdue (R) - Caesar's Entertainment Corporation
+- Greg (R) - AMN Healthcare Services Inc.
+- Thomas (R) - Interactive Brokers Group, Inc.
+- Josh (D) - Microsoft Corporation
+- Lois (D) - Dupont De Nemours, Inc.
+- Susie (D) - Ball Corporation
 * What was the average excess return over the 3 years for each party?
 
 Done
