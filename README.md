@@ -93,7 +93,7 @@ safe for one to assume that investing in certain companies or trades in general 
 was clearly not the best idea, and the Democratic Party's results provide proof for that assumption in my collection
 of top traders.
 
-### Is there a difference in excess return based on the political party?
+## Is there a difference in excess return based on the political party?
 
 This section aims to identify the excess return of each party, the highest performing politician,
 the excess return from 2019-2021, and the highest performing politician from 2019-2021, as well as provide future analysis of the excess returns for each party, and for the top performing politician.
@@ -101,17 +101,21 @@ the excess return from 2019-2021, and the highest performing politician from 201
 The goal is to identify if there is in party performance, or a trend in the performance of an individual
 that is worth making similar investments for someone outside of politics. It is expected that there is a difference in stock performance based on party, but not expected that the party as a whole is not going to be profitible. It is also expected that making investments based on the top performing politician will be valuable.
 
-* Question: Which party had the highest excess return for all trades?
-	* Overall for all trades, both parties were extremely negative in their losses for the sum of their excess returns. The excess return for Republicans for all years was -548,337.29, and the excess return for Democrat for all years was -123,073.97. Based on the analysis of the excess return based on party, it is not worth making financial investments based on a specific political party.
+### Which party had the highest excess return for all trades?
 
-* Question: Which party had the highest excess return for all years for the top performing politicians?
-	* When it comes to excess return based on the best performing politicians there was a clear answer as to which party was more profitable. When only considering the top 3 performers for each party the Democrats had a higher excess return than the Republicans. The Democrats came out to 151,888.77, and the excess return for the Republicans was 77,908. This came out to a 48.71% higher excess return based on the performance of the Democrats over the Republicans.
+Overall for all trades, both parties were extremely negative in their losses for the sum of their excess returns. The excess return for Republicans for all years was -548,337.29, and the excess return for Democrat for all years was -123,073.97. Based on the analysis of the excess return based on party, it is not worth making financial investments based on a specific political party.
 
-* Question: Which party had the highest excess return from 2019-2021?
-	* When comparing the excess return by party from 2019-2021 the excess return was a lot closer. Both parties were positive. The excess return for the Republicans was 35,392.47 while the Democrats excess return was 30,051.73. The Republicans had an excess return that was 17.80% higher than that of the Democrats.
+### Which party had the highest excess return for all years for the top performing politicians?
 
-* Question: Which politician performed the best across all years?
-	* Debbie Wasserman Schultz (D) had the highest excess return of 64,404.63 for all years. The top 6 politicians are ranked in order below. The highest performing Democrat out-earned the highest earning Republican by 39.16%.
+When it comes to excess return based on the best performing politicians there was a clear answer as to which party was more profitable. When only considering the top 3 performers for each party the Democrats had a higher excess return than the Republicans. The Democrats came out to 151,888.77, and the excess return for the Republicans was 77,908. This came out to a 48.71% higher excess return based on the performance of the Democrats over the Republicans.
+
+### Which party had the highest excess return from 2019-2021?
+
+When comparing the excess return by party from 2019-2021 the excess return was a lot closer. Both parties were positive. The excess return for the Republicans was 35,392.47 while the Democrats excess return was 30,051.73. The Republicans had an excess return that was 17.80% higher than that of the Democrats.
+
+### Which politician performed the best across all years?
+
+Debbie Wasserman Schultz (D) had the highest excess return of 64,404.63 for all years. The top 6 politicians are ranked in order below. The highest performing Democrat out-earned the highest earning Republican by 39.16%.
 	1. Debbie Wasserman Schultz (D)    64404.63
 	2. Whitehouse, Sheldon (D)         63956.88
 	3. Roberts, Pat (R)                46277.25
@@ -119,8 +123,9 @@ that is worth making similar investments for someone outside of politics. It is 
 	5. Mark Green (R)                  18811.46
 	6. Roger W. Marshall (R)           12819.79
 
-* Question: Which politician performed the best from 2019-2021?
-	* Thomas Suozzi (D) had the highest excess return of 27,117.85 from 2019 - 2021. The next highest performer was Mark Green (R) with an excess return of 18,811.46. Thomas Suozzi (D) outperformed Mark Green (R) by 44.16% from 2019-2021.
+### Which politician performed the best from 2019-2021?
+
+Thomas Suozzi (D) had the highest excess return of 27,117.85 from 2019 - 2021. The next highest performer was Mark Green (R) with an excess return of 18,811.46. Thomas Suozzi (D) outperformed Mark Green (R) by 44.16% from 2019-2021.
 	1. Thomas Suozzi (D)               27117.85
 	2. Mark Green (R)                  18811.46
 	3. Roberts, Pat (R)                13924.25
@@ -128,30 +133,36 @@ that is worth making similar investments for someone outside of politics. It is 
 	5. Roger W. Marshall (R)            2656.76
 	6. Debbie Wasserman Schultz (D)     -627.30
 
-* Question: Is it worth making investments based on the performance of a political party?
-	* No, it is not worth making investments based on the performance of a party. Both parties as a whole had a very high negative return.
+### Is it worth making investments based on the performance of a political party?
 
-* Question: Is it worth making investments based on the performance of a a single politician?
-	* Yes, it is worth making investments based on the performance of a single politician based on how well they are currently performing. It is not worth making investments based on a politician based on overall volume of trades. The investment is worth it based on their overall excess returns. The top performing Republicans did not have data past the year 2021, so the future predictions begin then as opposed to 2024 which is where the Democrat future predictions begin.
+No, it is not worth making investments based on the performance of a party. Both parties as a whole had a very high negative return.
 
-* Question: What do the future predictions indicate about the excess returns of the Republicans?
-	* The future predictions indicate that there will be a gradual rise over the years of the excess return for the top performing Republicans, with highs and lows over the years as it increases. The highs and lows appear to be regular each year, so an investor may be able to make an informed decision based on current market trends and their knowledge of the future analysis to increase their return.
+### Is it worth making investments based on the performance of a a single politician?
 
-	![Republican future predictions](./images/rep_prophet.png)
+Yes, it is worth making investments based on the performance of a single politician based on how well they are currently performing. It is not worth making investments based on a politician based on overall volume of trades. The investment is worth it based on their overall excess returns. The top performing Republicans did not have data past the year 2021, so the future predictions begin then as opposed to 2024 which is where the Democrat future predictions begin.
+
+### What do the future predictions indicate about the excess returns of the Republicans?
+
+The future predictions indicate that there will be a gradual rise over the years of the excess return for the top performing Republicans, with highs and lows over the years as it increases. The highs and lows appear to be regular each year, so an investor may be able to make an informed decision based on current market trends and their knowledge of the future analysis to increase their return.
+
+![Republican future predictions](./images/rep_prophet.png)
 
 
-* Question: What do the future predictions indicate about the excess returns of the Democrats?
-	* The future predictions indicate that there will be a gradual decline over the years of the excess return for the top performing Democrats, with highs and lows over the years as it decreases. Based on the future predictions it will not be worth it to make a long term investment based on the top performing Democrats. This could be because there is an outlier with Debbie Wasserman Schultz (D) of over 60,000 on a single investment which could have skewed the initial data presented to appear like the Democrats as a whole are more profitable in the long run, when in reality the future predictions indicate that the republicans will be more profitable.
+### What do the future predictions indicate about the excess returns of the Democrats?
 
-	![Democrat future predictions](./images/dem_prophet.png)
+The future predictions indicate that there will be a gradual decline over the years of the excess return for the top performing Democrats, with highs and lows over the years as it decreases. Based on the future predictions it will not be worth it to make a long term investment based on the top performing Democrats. This could be because there is an outlier with Debbie Wasserman Schultz (D) of over 60,000 on a single investment which could have skewed the initial data presented to appear like the Democrats as a whole are more profitable in the long run, when in reality the future predictions indicate that the republicans will be more profitable.
 
-* Question: What do the future predictions indicate about the excess returns of Debbie Wasserman Schultz (D)?
-	* The future predictions indicate that there will be a gradual rise over the years of the excess return for Debbie Wasserman Schultz (D), with highs and lows over the years as it increases.
+![Democrat future predictions](./images/dem_prophet.png)
 
-	![Debbie future predictions](./images/deb_prophet.png)
+### What do the future predictions indicate about the excess returns of Debbie Wasserman Schultz (D)?
 
-* Question: Can someone accurately predict when to buy and sell stocks based on the forecasts?
-	* Based on the forecasts it looks like there are consistent highs and lows each year. A buyer might not be able to anticipate exactly when to buy and sell, but they can anticipate market fluctions and invest accordingly based on their own experience and levels of risk they are willing to take.
+The future predictions indicate that there will be a gradual rise over the years of the excess return for Debbie Wasserman Schultz (D), with highs and lows over the years as it increases.
+
+![Debbie future predictions](./images/deb_prophet.png)
+
+### Can someone accurately predict when to buy and sell stocks based on the forecasts?
+
+Based on the forecasts it looks like there are consistent highs and lows each year. A buyer might not be able to anticipate exactly when to buy and sell, but they can anticipate market fluctions and invest accordingly based on their own experience and levels of risk they are willing to take.
 
 ## Healthcare sector during 2019-2021
 
