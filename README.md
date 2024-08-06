@@ -1,24 +1,29 @@
-# project-1
+# Congress Stock Trades Analysis
 
-## Questions to answer
+## Overview
 
-Trevor
-* Is there a difference in excess return based on the party of politician?
-* Who had the highest excess return?
+Pull CSV data from quiverquant for trades of congress members to analyze and predict future trends.
 
-Spencer
-* Was the trade volume for each year of healthcare stocks, and did it progress from 2019-2021 more than other years?
-* Who had the most profitable trade? Which party was it? What was the company? When was it?
+The goal the analysis was to identify patterns in excess returns within the years of 2019-2021. The trades are analyzed from multiple perspectives.
+* Analyze the overall volume of trades for the top 3 most traded representatives from each party.
+* Identify the most commonly traded companies from 2019-2021 for the top trading representatives.
+* Identify the average excess return from 2019-2021 for each top trading representative.
+* Identify the party with the highest excess return from 2019-2021 based on the top performing representatives.
+* Find the top 3 performing representatives with the highest excess return from each party for all years, and predict future returns.
+* Find the top performing politician overall for all years and predict future returns.
+* Figure out if it is worth making investments based on the performance of a given politician, or a given party.
+* Identify the top traded healthcare stock from 2019-2021.
+* Identify if it is worth making investments into healthcare stock based on political party.
 
-Shayne
-* What is the most common sector of stocks purchased by each party/politician from 2019-2021?
-- Perdue (R) - Caesar's Entertainment Corporation
-- Greg (R) - AMN Healthcare Services Inc.
-- Thomas (R) - Interactive Brokers Group, Inc.
-- Josh (D) - Microsoft Corporation
-- Lois (D) - Dupont De Nemours, Inc.
-- Susie (D) - Ball Corporation
-* What was the average excess return over the 3 years for each party?
+## Getting Started
 
-Done
-* Is it worth following the investments of a given candidate based on excess return?
+Open the project and run the command below
+
+```bash
+jupyter notebook
+```
+
+Then, run the cells to install the dependencies and see the output for the work.
+
+## Analysis
+
