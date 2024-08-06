@@ -82,5 +82,7 @@ that is worth making similar investments for someone outside of politics. It is 
 * Question: What do the future predictions indicate about the excess returns of Debbie Wasserman Schultz (D)?
 	* The future predictions indicate that there will be a gradual rise over the years of the excess return for Debbie Wasserman Schultz (D), with highs and lows over the years as it increases.
 
+	![Debbie future predictions](./images/deb_prophet.png)
+
 * Question: Can someone accurately predict when to buy and sell stocks based on the forecasts?
 	* Based on the forecasts it looks like there are consistent highs and lows each year. A buyer might not be able to anticipate exactly when to buy and sell, but they can anticipate market fluctions and invest accordingly based on their own experience and levels of risk they are willing to take.
