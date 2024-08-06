@@ -23,7 +23,7 @@ Open the project and run the command below
 jupyter notebook
 ```
 
-Then, run the cells to install the dependencies and see the output for the work.
+Then, open the `main.ipynb` file and run the cells to install the dependencies and see the output for the work.
 
 ## Analysis
 
