@@ -27,3 +27,18 @@ Then, run the cells to install the dependencies and see the output for the work.
 
 ## Analysis
 
+top traded healthcare stock(sale) from 2019-2021 by party, 
+![Application Screenshot](images/Top_Traded.png)
+
+AMN Healthcare Services was the top traded amongst both parties. 
+
+There didn't seem to be a ton of movement during this time with these sector of stocks, 
+
+Of the few investment sell offs during this time period it did seem to lean heavily favorable for the democrats,
+however it really one individual with the bulk of trades. (Susie) 
+
+As for the republicans it does show only one sale for a pretty massive loss (will look at other data sources)
+![Application Screenshot](images/Top_Sales.png)
+
+For investment purposes in healthcare during 2019-2021, it would be wise to follow a single individual based on these results (Susie)
+hindsight is always 20-20. 
