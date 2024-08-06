@@ -27,7 +27,8 @@ Then, open the `main.ipynb` file and run the cells to install the dependencies a
 
 ## Analysis
 
-**Top Traders** *Shayne*
+## Top Traders *Shayne*
+
 ### Who are the Top 6 Political Traders?
 Filtering the data to fit specific needs, this  portion of the data focuses mainly on the top 6 politicians
 that made the most trades overall. These traders happened to be:
@@ -151,3 +152,26 @@ that is worth making similar investments for someone outside of politics. It is 
 
 * Question: Can someone accurately predict when to buy and sell stocks based on the forecasts?
 	* Based on the forecasts it looks like there are consistent highs and lows each year. A buyer might not be able to anticipate exactly when to buy and sell, but they can anticipate market fluctions and invest accordingly based on their own experience and levels of risk they are willing to take.
+
+## Healthcare sector during 2019-2021
+
+### Identify the top traded healthcare stock from 2019-2021.
+
+top traded healthcare stock(sale) from 2019-2021 by party, 
+![Application Screenshot](images/Top_Traded.png)
+
+AMN Healthcare Services was the top traded amongst both parties. 
+
+There didn't seem to be a ton of movement during this time with these sector of stocks, 
+
+Of the few investment sell offs during this time period it did seem to lean heavily favorable for the democrats,
+however it really one individual with the bulk of trades. (Susie) 
+
+As for the republicans it does show only one sale for a pretty massive loss (will look at other data sources)
+![Application Screenshot](images/Top_Sales.png)
+
+
+### Identify if it is worth making investments into healthcare stock based on political party.
+For investment purposes in healthcare during 2019-2021, it would be wise to follow a single individual based on these results (Susie)
+
+Hindsight is always 20-20. 
