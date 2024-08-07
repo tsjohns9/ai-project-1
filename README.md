@@ -27,7 +27,9 @@ Then, open the `main.ipynb` file and run the cells to install the dependencies a
 
 ## Analysis
 
+
 ## Top Traders *Shayne*
+
 
 ### Who are the Top 6 Political Traders?
 Filtering the data to fit specific needs, this  portion of the data focuses mainly on the top 6 politicians
@@ -92,6 +94,7 @@ When push comes to shove, during the years of 2019-2021, excess return averages 
 safe for one to assume that investing in certain companies or trades in general during the prior mentioned years
 was clearly not the best idea, and the Democratic Party's results provide proof for that assumption in my collection
 of top traders.
+
 
 ## Is there a difference in excess return based on the political party?
 
